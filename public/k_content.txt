@@ -1,1 +1,17 @@
-<font face="Arial" color=black><br>Verborgene KLEINODE in ROM: Eine Einladung an 18 interessante Orte, die Ihr Reisef&uuml;hrer vielleicht nicht vorschl&auml;gt<br>ISBN-10: 1520488165 / ISBN-13: 978-1520488165<br><a href="https://www.amazon.de/gp/product/1520488165/ref=as_li_tl?ie=UTF8&tag=opcom06-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=1520488165&linkId=f9b16ff1bf9a62af46b2f382b9761c8c" target="new" style="text-decoration: none;"><font face="Arial" color=black>https://www.amazon.de/gp/product/1520488165/ref=as_li_tl?ie=UTF8&tag=opcom06-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=1520488165&linkId=f9b16ff1bf9a62af46b2f382b9761c8c<br></font></a><br><br>OP-CMS-CoronaBar App<br>https://play.google.com/store/apps/details?id=appinventor.ai_opaulus_OP.OP_CMS_CoronaBar<br><BR><br>ABSCONDITE ELEEMOSINA IN SINU PAUPERUM ET IPSA ORABIT PRO VOBIS<br><BR><br>ILLE HIC EST RAPHAEL TIMUIT QUO SOSPITE VINCI RERUM MAGNA PARENS ET MORIENTE MORI<br><BR><br></font><br><!-- Mit Excel Function UPPER() kann man Großbuchstaben generieren -->
+<font face="Arial" color=black><br>Verborgene KLEINODE in ROM: Eine Einladung an 18 interessante Orte, die Ihr Reisef&uuml;hrer vielleicht nicht vorschl&auml;gt
+<br>ISBN-10: 1520488165 / ISBN-13: 978-1520488165<br>
+<a href="https://www.amazon.de/gp/product/1520488165/ref=as_li_tl?ie=UTF8&tag=opcom06-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=1520488165&linkId=f9b16ff1bf9a62af46b2f382b9761c8c" target="new" style="text-decoration: none;">
+<font face="Arial" color=black>https://www.amazon.de/gp/product/1520488165/ref=as_li_tl?ie=UTF8&tag=opcom06-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=1520488165&linkId=f9b16ff1bf9a62af46b2f382b9761c8c<br>
+</font>
+</a>
+<br><br>
+OP-CMS-CoronaBar App<br>https://play.google.com/store/apps/details?id=appinventor.ai_opaulus_OP.OP_CMS_CoronaBar
+<br>
+<BR>
+<br>
+ABSCONDITE ELEEMOSINA IN SINU PAUPERUM ET IPSA ORABIT PRO VOBIS<br><BR><br>ILLE HIC EST RAPHAEL TIMUIT QUO SOSPITE VINCI RERUM MAGNA PARENS ET MORIENTE MORI
+<br><BR>
+Webserver Edition<br>
+</font>
+<br>
+<!-- Mit Excel Function UPPER() kann man Großbuchstaben generieren -->
